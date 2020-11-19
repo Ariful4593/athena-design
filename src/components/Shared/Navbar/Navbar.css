@@ -1,0 +1,7 @@
+.contact-btn{
+    background: rgba(127,255,255,0.4);
+    border-radius: 20px 0px 20px 0px;
+}
+ul li a:hover{
+    text-decoration: none;
+}

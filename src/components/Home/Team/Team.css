@@ -1,0 +1,27 @@
+ul li{
+    list-style-type: none;
+}
+ul{
+    padding: 0;
+}
+.shadow{
+    line-height: 3;
+}
+.team-container{
+    margin-top: 100px;
+    background-image: url('../../../image/Illustration/Group\ 46@2x.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team-row{
+    margin-top: 70px;
+}
+.team-container h2{
+    color: #0D052E;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 40px;
+}
+.group-price:hover{
+    border: 4px solid #7DEEDA;
+    cursor: pointer;
+}

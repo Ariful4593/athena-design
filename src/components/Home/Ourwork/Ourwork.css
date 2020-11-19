@@ -1,0 +1,21 @@
+.group:hover{
+    border-radius: 40px 0px 40px 0px;
+    background-color: #FFFFFF;
+
+    cursor: pointer;
+}
+.ourwork-container{
+    background-color: #FAFFFD;
+    height: 500px;
+    background-image: url('../../../image/Illustration/Path\ 74.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ourwork-container h4{
+    color: #0D052E;
+}
+
+.ourwork-container h1{
+    font-family: 'Abhaya Libre', serif;
+    color: #0D052E
+}

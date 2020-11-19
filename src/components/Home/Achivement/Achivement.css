@@ -1,0 +1,15 @@
+.happy{
+    border-radius: 0px 60px 0px 60px;
+}
+.marketting{
+    border-radius: 60px 0px 60px 0px;
+}
+.achivement-container{
+    height: 500px;
+    background-color: #FAFFFD;
+}
+.achivement-container h4{
+    color: #0D052E;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 45px;
+}

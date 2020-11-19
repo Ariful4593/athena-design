@@ -1,0 +1,13 @@
+.contact-btn{
+    background: rgb(105,191,235);
+background: linear-gradient(173deg, rgba(105,191,235,1) 100%, rgb(46, 185, 146) 81%, rgba(250,255,253,1) 100%);
+    border-radius: 20px 0px 20px 0px;
+    padding: 5px;
+    width: 100px;
+}
+.runningproject-container h4{
+    color: #0D052E;
+}
+.runningproject-container a:hover{
+    text-decoration: none;
+}
