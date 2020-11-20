@@ -1,7 +1,9 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import logo from '../../../image/Illustration/athena.png';
-import './Navbar.css';
+import React from 'react'
+import { Link } from 'react-router-dom'
+import logo from '../../../image/Illustration/athena.png'
+import './Navbar.css'
+
+
 const Navbar = () => {
     return (
         
@@ -20,28 +22,28 @@ const Navbar = () => {
                             </Link>
                         </li>
                         <li className="nav-item font-weight-bold p-2 mr-5">
-                            <Link to="portfolio" className="font-weight-normal text-secondary">
+                            <Link to="about" className="font-weight-normal text-secondary">
                                 About
                             </Link>
                         </li>
                         <li className="nav-item font-weight-bold p-2 mr-5">
-                            <Link to="team" className="font-weight-normal text-secondary">
+                            <Link to="services" className="font-weight-normal text-secondary">
                                 Services
                             </Link>
                         </li>
                         <li className="nav-item font-weight-bold p-2 mr-5">
-                            <Link to="contact" className="font-weight-normal text-secondary">
+                            <Link to="pricing" className="font-weight-normal text-secondary">
                                 Pricing
                             </Link>
                         </li>
                         <li className="nav-item font-weight-bold p-2 mr-5">
-                            <Link to="contact" className="font-weight-normal text-secondary">
+                            <Link to="ourteam" className="font-weight-normal text-secondary">
                                 Our Team
                             </Link>
                         </li>
-                        <li className="nav-item font-weight-bold p-2 mr-5 contact-btn">
-                            <Link to="contact" className="font-weight-normal text-secondary">
-                                Contact us
+                        <li className="nav-item text-white font-weight-bold p-2 contact-btn">
+                            <Link to="contact" className="font-weight-normal">
+                                <span className="text-white">Contact us</span>
                             </Link>
                         </li>
                     </ul>

@@ -5,12 +5,12 @@ ul li a{
     color: #6c757d!important;
     font-weight: bold;
 }
-
-/* @media screen and (max-width: 19926px) and (min-width: 576px) {
-    .footer-container ul li{
-        text-align: center;
-    }
-  } */
+.footer-container ul{
+    padding: 0;
+}
+.footer-container ul li{
+    list-style-type: none;
+}
 
   @media screen and (max-width: 575px) and (min-width: 200px) {
     .footer-container ul li {
