@@ -4,7 +4,7 @@ import MainHeader from '../MainHeader/MainHeader';
 
 const Header = () => {
     return (
-        <div className="">
+        <div className="container">
             <Navbar></Navbar>
             <MainHeader></MainHeader>
         </div>

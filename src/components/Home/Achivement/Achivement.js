@@ -15,8 +15,8 @@ const Achivement = () => {
                     </div>
                     <div className="col-md-7">
                         <div className="row justify-content-end">
-                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0 ">
-                                <div className="row bg-secondary mr-md-4  mr-lg-4 mr-xl-4 happy mr-sm-2 mb-4 bg-white item-shadow" >
+                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0 pr-xl-0 pb-xl-0 pl-xl-4 pt-xl-4">
+                                <div className="row bg-secondary mr-md-4 p-xl-4 mr-lg-4 mr-xl-3 mb-xl-0  mr-sm-2 mb-4 happy bg-white item-shadow " >
                                     <div className="col-4 col-sm-4 col-md-4 happy-img d-flex align-items-center">
                                         <img className="w-75 m-4 m-md-0" src={happyImoji} alt="" />
                                     </div>
@@ -26,8 +26,8 @@ const Achivement = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0">
-                                <div className="row bg-secondary marketting mr-sm-2 mb-4   mr-lg-4  mr-md-4 mr-xl-4 bg-white item-shadow" >
+                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0  pt-xl-4 pb-xl-0 pl-xl-4 pr-xl-0 ">
+                                <div className="row bg-secondary mr-md-4 p-xl-4 mr-lg-4 mr-xl-3 mb-xl-0  mr-sm-2 mb-4  bg-white marketting item-shadow" >
                                     <div className="col-4 col-sm-4 col-md-4 d-flex align-items-center">
                                         <img className="w-75 m-4 m-md-0" src={marketting} alt="" />
                                     </div>
@@ -37,8 +37,8 @@ const Achivement = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0">
-                                <div className="row bg-secondary  d-flex align-items-center happy mr-sm-2 mb-4  mr-md-4 mr-lg-4 mr-xl-4 bg-white item-shadow" >
+                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0 pt-xl-4 pb-xl-0 pl-xl-4 pr-xl-0 ">
+                                <div className="row bg-secondary mr-md-4 p-xl-4 mr-lg-4 mr-xl-3 mb-xl-0  mr-sm-2 mb-4  d-flex align-items-center marketting  bg-white item-shadow" >
                                     <div className="col-4 col-sm-4 col-md-4 d-flex align-items-center">
                                         <img className="w-75 m-4 m-md-0" src={surface} alt="" />
                                     </div>
@@ -48,8 +48,8 @@ const Achivement = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0">
-                                <div className="row bg-secondary  mr-md-4 d-flex align-items-center marketting item-shadow mr-sm-2 mb-4  mr-lg-4 mr-xl-4 bg-white" >
+                            <div className="col-12 col-sm-6 col-md-6 p-md-0 p-lg-0  pt-xl-4 pr-xl-0 pl-xl-4 pb-xl-0">
+                                <div className="row bg-secondary mr-md-4 p-xl-4 mr-lg-4 mr-xl-3 mb-xl-0  mr-sm-2 mb-4  d-flex align-items-center happy item-shadow bg-white" >
                                     <div className="col-4 col-sm-4 col-md-4 d-flex align-items-center">
                                         <img className="w-75 m-4 m-md-0" src={transfortation} alt="" />
                                     </div>
