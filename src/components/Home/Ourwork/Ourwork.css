@@ -6,16 +6,18 @@
 }
 .ourwork-container{
     background-color: #FAFFFD;
-    height: 500px;
+    /* height: 500px; */
     background-image: url('../../../image/Illustration/Path\ 74.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ourwork-container h4{
     color: #0D052E;
+    font-size: 30px;
 }
 
 .ourwork-container h1{
     font-family: 'Abhaya Libre', serif;
-    color: #0D052E
+    color: #0D052E;
+    font-size: 55px;
 }

@@ -9,7 +9,7 @@ import Team from '../Team/Team';
 
 const Home = () => {
     return (
-        <div className="home-container">
+        <div className="container home-container mw-100">
             <Header></Header>
             <Ourwork></Ourwork>
             <RunningProject></RunningProject>

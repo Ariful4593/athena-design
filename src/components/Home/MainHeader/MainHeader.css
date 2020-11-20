@@ -9,6 +9,14 @@
 .main-header a:hover{
     text-decoration: none;
 }
-/* .mainheader-container{
-    background-image: url('../../../image/Illustration/Group\ 49.png');
-} */
+
+@media screen and (max-width: 350px) and (min-width: 280px) {
+    .main-header h1{
+        font-size: 27px;
+    }
+  }
+  @media screen and (max-width: 575px) and (min-width: 351px) {
+    .main-header h1{
+        font-size: 38px;
+    }
+  }

@@ -14,33 +14,33 @@ const Ourwork = () => {
                 </small>
             </div>
             <div className="container">
-                <div className="row mt-5 w-100">
-                    <div className="col-md-3 text-center group">
+                <div className="row mt-5">
+                    <div className="col-md-3 text-center group mb-4 mt-4 mt-sm-4">
                         <div className="p-2 ">
                             <img src={group1} alt="" />
-                            <h4 className="font-weight-bold">Experience Design</h4>
+                            <h4 className="">Experience Design</h4>
                             <small>The point of using Lorem Ipsum is that it has a more or less normal</small>
                         </div>
 
                     </div>
-                    <div className="col-md-3 text-center group">
+                    <div className="col-md-3 text-center group mb-4 mt-4 mt-sm-4">
                         <div className="p-2 ">
                             <img src={group2} alt="" />
-                            <h4 className="font-weight-bold">Interface Design</h4>
+                            <h4 className="">Interface Design</h4>
                             <small>The point of using Lorem Ipsum is that it has a more or less normal</small>
                         </div>
                     </div>
-                    <div className="col-md-3 text-center group">
+                    <div className="col-md-3 text-center group mb-4 mt-4 mt-sm-4">
                         <div className="p-2 ">
                             <img src={group3} alt="" />
-                            <h4 className="font-weight-bold">Prototyping</h4>
+                            <h4 className="">Prototyping</h4>
                             <small>The point of using Lorem Ipsum is that it has a more or less normal</small>
                         </div>
                     </div>
-                    <div className="col-md-3 text-center group">
+                    <div className="col-md-3 text-center group mb-4 mt-4 mt-sm-4">
                         <div className="p-2 ">
                             <img src={group4} alt="" />
-                            <h4 className="font-weight-bold">Illustration</h4>
+                            <h4 className="">Illustration</h4>
                             <small>The point of using Lorem Ipsum is that it has a more or less normal</small>
                         </div>
                     </div>

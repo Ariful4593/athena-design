@@ -7,6 +7,11 @@ background: linear-gradient(173deg, rgba(105,191,235,1) 100%, rgb(46, 185, 146) 
 }
 .runningproject-container h4{
     color: #0D052E;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 61px;
+}
+.runningproject-container p{
+    line-height: 2;
 }
 .runningproject-container a:hover{
     text-decoration: none;

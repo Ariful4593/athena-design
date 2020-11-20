@@ -1,15 +1,49 @@
 .happy{
     border-radius: 0px 60px 0px 60px;
 }
+
 .marketting{
     border-radius: 60px 0px 60px 0px;
 }
 .achivement-container{
-    height: 500px;
+    /* height: 500px; */
     background-color: #FAFFFD;
+}
+.achivement-container p{
+    font-family: 'Montserrat', sans-serif;
 }
 .achivement-container h4{
     color: #0D052E;
     font-family: 'Abhaya Libre', serif;
     font-size: 45px;
 }
+.achivement p{
+    line-height: 2;
+}
+@media screen and (max-width: 768px) and (min-width: 576px) {
+    .achivement-container p{
+        font-size: 14px;
+    }
+    .achivement-container h4{
+        font-size: 50px;
+    }
+  }
+  @media screen and (max-width: 576px) and (min-width: 280px) {
+    .achivement-container h4{
+        font-size: 37px;
+        font-family: 'Abhaya Libre', serif;
+    }
+  }
+  @media screen and (max-width: 1192px) and (min-width: 992px) {
+    .achivement-container h1{
+        font-size: 40px;
+    }
+    .achivement-container p{
+        font-size: 14px;
+    }
+  }
+  /* @media screen and (max-width: 991px) and (min-width: 768px) {
+    .achivement{
+        width: 50%;
+    }
+  } */

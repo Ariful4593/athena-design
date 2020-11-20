@@ -4,9 +4,9 @@ const Team = () => {
     return (
         <div className="container team-container mw-100">
             <h2 className="text-center">Choose Your Dedicated Team</h2>
-            <div className="row team-row d-flex align-items-center ml-4 mr-4">
+            <div className="row team-row d-flex align-items-center">
                 <div className="col-md-4 text-center ">
-                    <div className="shadow p-5 mb-5 bg-white rounded group-price">
+                    <div className="shadow  mb-5 bg-white rounded group-price">
                         <h1 className="text-secondary font-weight-bold">$199</h1>
                         <p className="text-secondary">For Basic</p>
                         <hr />
@@ -23,7 +23,7 @@ const Team = () => {
 
                 </div>
                 <div className="col-md-4 text-center ">
-                    <div className="shadow p-5 mb-5 bg-white rounded group-price">
+                    <div className="shadow  mb-5 bg-white rounded group-price">
                         <h1 className="text-secondary font-weight-bold">$399</h1>
                         <p className="text-secondary">For Prefered</p>
                         <hr />
@@ -39,7 +39,7 @@ const Team = () => {
                     </div>
                 </div>
                 <div className="col-md-4 text-center ">
-                    <div className="shadow p-5 mb-5 bg-white rounded group-price">
+                    <div className="shadow  mb-5 bg-white rounded group-price">
                         <h1 className="text-secondary font-weight-bold">$199</h1>
                         <p  className="text-secondary">For Basic</p>
                         <hr />
